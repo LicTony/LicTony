@@ -1,16 +1,14 @@
-## Hi there 👋
+# Project Title
+Hola Soy Licenciado Tony
 
-<!--
-**LicTony/LicTony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador y analista con más de 20 años de experiencia en diseño, desarrollo y mantenimiento de sistemas empresariales. Especialista en SQL y .NET C#, con amplia experiencia en la resolución de problemas complejos, desarrollo de aplicaciones críticas y trabajo colaborativo en equipos multidisciplinarios.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LicTony)](https://git.io/streak-stats)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LicTony)](https://github.com/anuraghazra/github-readme-stats)
