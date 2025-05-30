@@ -9,5 +9,18 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LicTony&show_icons=true&theme=dark)
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LicTony&layout=compact&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LicTony&show_icons=true&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LicTony)](https://git.io/streak-stats)
 
