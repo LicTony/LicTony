@@ -11,4 +11,3 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LicTony)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LicTony)](https://github.com/anuraghazra/github-readme-stats)
