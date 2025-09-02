@@ -17,5 +17,5 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
 </table>
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LicTony)](https://git.io/awesome-stats-card)
 
