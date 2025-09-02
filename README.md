@@ -17,10 +17,5 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
 </table>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LicTony&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LicTony)](https://git.io/streak-stats)
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LicTony" alt="GitHub Streak" /></a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
 
