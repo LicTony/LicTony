@@ -16,5 +16,8 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
   </tr>
 </table>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LicTony&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LicTony)](https://git.io/streak-stats)
 
