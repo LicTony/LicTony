@@ -4,16 +4,11 @@
 
 Desarrollador y analista con más de 20 años de experiencia en diseño, desarrollo y mantenimiento de sistemas empresariales. Especialista en SQL y .NET C#, con amplia experiencia en la resolución de problemas complejos, desarrollo de aplicaciones críticas y trabajo colaborativo en equipos multidisciplinarios.
 
-
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lictony&layout=compact&theme=dark&bg_color=0A0A0A" alt="Lic Tony Top Languages"/>
-<br />
-
 ### GitHub Stats
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LicTony&layout=compact&theme=dark" />
+    <td>      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lictony&layout=compact&theme=dark&bg_color=0A0A0A" alt="Lic Tony Top Languages"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=LicTony&show_icons=true&theme=dark" />
