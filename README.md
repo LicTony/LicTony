@@ -6,7 +6,7 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
 
 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lictony&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lictony&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lictony&theme=dracula)
 
 
@@ -15,7 +15,7 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
 <table>
   <tr>
     <td>      
-      <img src="![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lictony&theme=dracula)"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lictony&theme=dracula"/>
     </td>  
   </tr>
 
