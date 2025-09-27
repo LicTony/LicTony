@@ -24,16 +24,10 @@ Desarrollador y analista con más de 20 años de experiencia en diseño, desarro
   </tr>
    <tr>
     <td>      
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LicTony&theme=dracula"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lictony&theme=dracula"/>                
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lictony&theme=dracula" />
     </td>
   </tr>
-</table>
-
-
-/*
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LicTony)](https://git.io/awesome-stats-card)
-*/
-
+</table>  
