@@ -4,6 +4,13 @@
 
 Desarrollador y analista con más de 20 años de experiencia en diseño, desarrollo y mantenimiento de sistemas empresariales. Especialista en SQL y .NET C#, con amplia experiencia en la resolución de problemas complejos, desarrollo de aplicaciones críticas y trabajo colaborativo en equipos multidisciplinarios.
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lictony&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lictony&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lictony&theme=dracula)
+
+
+
 ### GitHub Stats
 <table>
   <tr>
