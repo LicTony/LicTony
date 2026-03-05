@@ -2,7 +2,10 @@
 
 ![Lic. Tony](https://raw.githubusercontent.com/LicTony/LicTony/main/assets/img/bannerV3.png)
 
-Desarrollador y analista con más de 20 años de experiencia en diseño, desarrollo y mantenimiento de sistemas empresariales. Especialista en SQL y .NET C#, con amplia experiencia en la resolución de problemas complejos, desarrollo de aplicaciones críticas y trabajo colaborativo en equipos multidisciplinarios.
+Desarrollador y analista con más de 20 años de experiencia en diseño, desarrollo y mantenimiento de sistemas empresariales. Especialista en SQL y .NET (C#), con dominio de múltiples motores de bases de datos — Oracle, MySQL y SQL Server — y experiencia en herramientas como DBeaver y SQL Server Management Studio.
+Trabajo habitualmente con Visual Studio y Visual Studio Code, lo que me permite adaptarme tanto a desarrollos robustos en entornos empresariales como a flujos de trabajo más ágiles y modernos.
+Actualmente explorando metodologías como Spec Driven Development (SDD), orientadas a mejorar la claridad, trazabilidad y calidad del software desde la especificación, y en constante actualización sobre las últimas tendencias en Inteligencia Artificial aplicadas al desarrollo de software — incluyendo herramientas de asistencia al código, generación automatizada y flujos de trabajo aumentados por IA.
+Me destaco por la resolución de problemas complejos, el desarrollo de aplicaciones críticas y la colaboración efectiva en equipos multidisciplinarios, siempre con foco en la calidad, la mantenibilidad del código y la entrega de valor real al negocio.
 
 
 ### GitHub Stats
