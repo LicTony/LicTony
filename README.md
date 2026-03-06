@@ -25,7 +25,7 @@ Me destaco por la resolución de problemas complejos, el desarrollo de aplicacio
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lictony&layout=compact&theme=dark&bg_color=0A0A0A" alt="Lic Tony Top Languages"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LicTony&show_icons=true&theme=dark" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=LicTony&show_icons=true&theme=dark&border_radius=10&hide_border=true" alt="LicTony Stats"/>
     </td>
   </tr>
    <tr>
